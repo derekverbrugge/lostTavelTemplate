@@ -337,3 +337,6 @@ button, a, input, select { outline-offset: 3px; }
   .footer-grid, .footer-bottom { flex-direction: column; }
   .footer-grid nav { flex-wrap: wrap; gap: 14px 25px; }
 }
+
+/* Match the browser's bottom overscroll area to the final footer section. */
+html { background-color: #081114; }

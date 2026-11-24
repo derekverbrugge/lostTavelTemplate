@@ -1,0 +1,5 @@
+# lostTavelTemplate
+
+- [LOST Travel | Go somewhere extraordinary](https://derekverbrugge.github.io/lostTavelTemplate/)
+
+[Full text](https://derekverbrugge.github.io/lostTavelTemplate/llms-full.txt)

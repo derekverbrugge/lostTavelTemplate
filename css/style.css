@@ -340,3 +340,6 @@ button, a, input, select { outline-offset: 3px; }
 
 /* Match the browser's bottom overscroll area to the final footer section. */
 html { background-color: #081114; }
+
+/* Website standards */
+a,a:visited,a:hover,a:active,a:focus{text-decoration:none!important}body{min-height:100vh;display:flex;flex-direction:column}main{flex:1}#site-footer{margin-top:auto}.template-credit{font-size:.75rem;text-align:center}.footer-links,.footer-navigation{flex-wrap:wrap} [hidden]{display:none!important}
